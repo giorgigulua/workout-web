@@ -1,0 +1,20 @@
+.parent{
+   background-color: red;
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 100px;
+}
+
+p{
+    border: 1px solid black;
+    color : white;
+    background-color: green;
+}
+
+span{
+    border: 1px solid black;
+    color : white;
+    background-color: blue;
+
+}
